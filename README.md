@@ -1,1 +1,1 @@
-Primeiro exercício do estudo de Rest api desenvolvido com Java, Spring framework e Maven.
+Primeiro exercício do estudo de Rest api com Java, Spring framework e Maven.
